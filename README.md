@@ -1,5 +1,7 @@
 # docker-php-laravel-mysql-adminer
 
+Php7+Laravel development env.
+
 ### Usage
 
 Run:
