@@ -42,4 +42,4 @@ RUN php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');" &&
 # INSTALL LARAVEL
 RUN composer global require laravel/installer
 
-CMD php artisan serve --host php --port $APP_PORT
+#CMD php artisan serve --host php --port $APP_PORT
